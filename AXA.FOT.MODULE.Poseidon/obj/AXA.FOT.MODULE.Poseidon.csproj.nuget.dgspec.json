@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.MODULE.Poseidon\\AXA.FOT.MODULE.Poseidon.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.CORE\\AXA.FOT.CORE.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.CORE\\AXA.FOT.CORE.csproj",
+        "projectName": "AXA.FOT.CORE",
+        "projectPath": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.CORE\\AXA.FOT.CORE.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.DOMAIN\\AXA.FOT.DOMAIN.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.DOMAIN\\AXA.FOT.DOMAIN.csproj",
+        "projectName": "AXA.FOT.DOMAIN",
+        "projectPath": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.DOMAIN\\AXA.FOT.DOMAIN.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.MODULE.Poseidon\\AXA.FOT.MODULE.Poseidon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.MODULE.Poseidon\\AXA.FOT.MODULE.Poseidon.csproj",
+        "projectName": "AXA.FOT.MODULE.Poseidon",
+        "projectPath": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.MODULE.Poseidon\\AXA.FOT.MODULE.Poseidon.csproj",
+        "packagesPath": "C:\\Users\\MOHAMED\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.MODULE.Poseidon\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MOHAMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.CORE\\AXA.FOT.CORE.csproj": {
+                "projectPath": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.CORE\\AXA.FOT.CORE.csproj"
+              },
+              "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.DOMAIN\\AXA.FOT.DOMAIN.csproj": {
+                "projectPath": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.DOMAIN\\AXA.FOT.DOMAIN.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

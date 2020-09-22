@@ -1,0 +1,6 @@
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.DOMAIN\bin\Debug\AXA.FOT.DOMAIN.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.DOMAIN\bin\Debug\AXA.FOT.DOMAIN.pdb
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.DOMAIN\obj\Debug\AXA.FOT.DOMAIN.csprojAssemblyReference.cache
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.DOMAIN\obj\Debug\AXA.FOT.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.DOMAIN\obj\Debug\AXA.FOT.DOMAIN.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.DOMAIN\obj\Debug\AXA.FOT.DOMAIN.pdb

@@ -1,0 +1,17 @@
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\AXA.FOT.CORE.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\AXA.FOT.CORE.pdb
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\obj\Debug\AXA.FOT.CORE.csprojAssemblyReference.cache
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\obj\Debug\AXA.FOT.CORE.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\obj\Debug\AXA.FOT.CORE.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\obj\Debug\AXA.FOT.CORE.pdb
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\Prism.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\System.ValueTuple.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\Prism.pdb
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\Prism.xml
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\System.ValueTuple.xml
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\obj\Debug\AXA.FOT.CORE.csproj.CopyComplete
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\CommonServiceLocator.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\Prism.Wpf.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\Prism.Wpf.pdb
+C:\Users\MOHAMED\source\repos\AXA.FOT\AXA.FOT.CORE\bin\Debug\Prism.Wpf.xml

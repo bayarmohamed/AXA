@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O73mBCkD+/JEzc/rpOB5OGO+x3DIFETsAiNaPcaiu7ywEiGatyG6skxLUGTdwc0Jker8GmeDo31GRF09mLFXkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MOHAMED\\source\\repos\\AXA.FOT\\AXA.FOT.MODULE.Poseidon\\AXA.FOT.MODULE.Poseidon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOHAMED\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\MOHAMED\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\MOHAMED\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\MOHAMED\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
